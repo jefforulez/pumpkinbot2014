@@ -24,6 +24,6 @@ _YouTube: Yo Witches! Hack o'Lantern 2014_
 
 ## Images
 
-![](https://raw.githubusercontent.com/jefforulez/arduino_hacks/master/pumpkinbot2014/pics/wiring_01.JPG)
-![](https://raw.githubusercontent.com/jefforulez/arduino_hacks/master/pumpkinbot2014/pics/wiring_02.JPG)
+![](./pics/wiring_01.JPG)
+![](./pics/wiring_02.JPG)
 
