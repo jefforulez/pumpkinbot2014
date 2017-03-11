@@ -19,11 +19,10 @@ No one is going to steal my candy this year!
 
 ## Video
 
-[![](https://img.youtube.com/vi/maNxQ23WhIE/0.jpg)](https://www.youtube.com/watch?v=maNxQ23WhIE "Everything Is AWESOME")
+[![](https://img.youtube.com/vi/maNxQ23WhIE/0.jpg)](https://www.youtube.com/watch?v=maNxQ23WhIE)
 _YouTube: Yo Witches! Hack o'Lantern 2014_
 
 ## Images
 
 ![](./pics/wiring_01.JPG)
 ![](./pics/wiring_02.JPG)
-
