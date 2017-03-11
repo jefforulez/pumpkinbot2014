@@ -19,7 +19,7 @@ No one is going to steal my candy this year!
 
 ## Video
 
-[![](https://img.youtube.com/vi/maNxQ23WhIE/0.jpg)](https://www.youtube.com/watch?v=maNxQ23WhIE)<br/>
+[![](https://img.youtube.com/vi/maNxQ23WhIE/0.jpg)](https://www.youtube.com/watch?v=maNxQ23WhIE){:target="_blank"}<br/>
 _YouTube: Yo Witches! Hack o'Lantern 2014_
 
 ## Images
